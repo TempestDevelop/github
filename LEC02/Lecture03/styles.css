@@ -1,0 +1,21 @@
+h1 {
+    font-size: 100px;
+    font-weight: 600;
+    color:blue;
+}
+
+/* ID */
+
+
+#Heading-1A {
+    font-size: x-large;
+    color: blueviolet;
+}
+
+/* class */
+
+.Heading-1B {
+    font-size: x-large;
+    font-weight: 600;
+    color: brown;
+}
